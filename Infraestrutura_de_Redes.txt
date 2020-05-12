@@ -1,0 +1,2 @@
+#01 - Esqueça o ping, bem-vindo Test-Connection
+https://gabrielluiz.com/2020/04/test-connection-powershell-7-0
